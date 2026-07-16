@@ -2,7 +2,7 @@
 
 A web-based Student Management System built using Java, Spring Boot, Spring Data JPA, Thymeleaf, Bootstrap, and MySQL. The application allows users to manage student records with complete CRUD functionality, search students by first or last name, and provides a clean, responsive user interface.
 
-## 🚀 Features
+##  Features
 
 - Add Student
 - View Student List
@@ -12,7 +12,7 @@ A web-based Student Management System built using Java, Spring Boot, Spring Data
 - Search Student by Last Name
 - Responsive Bootstrap UI
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Java 17
 - Spring Boot
