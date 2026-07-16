@@ -29,7 +29,8 @@ A web-based Student Management System built using Java, Spring Boot, Spring Data
 4. Open `http://localhost:8080/students`.
 
 ## Screenshots
-(Add screenshots of your application here)
+<img width="1902" height="705" alt="image" src="https://github.com/user-attachments/assets/1e91932d-c913-483e-93fa-74465d887d6e" />
+
 
 ## Author
 Rajesh Paruchuri
